@@ -13,7 +13,7 @@ I am a sixth semester student of systems engineering ğŸ“ at ICESI University ğŸ
 
 
 <p align = "center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=BryanGF0822&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" />
+  <img align="top" src="https://github.com/BryanGF0822?tab=repositories" alt="imkashyap" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF0822&theme=dark&hide_border=true&layout=compact">
 </p>
 
