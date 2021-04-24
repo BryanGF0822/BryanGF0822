@@ -23,7 +23,7 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
   
-  ### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.instagram.com/bryan_gf22/"><img src="https://img.shields.io/badge/-@bryan_gf22__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
