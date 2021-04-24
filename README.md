@@ -8,12 +8,12 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
 
 ### Personal Stuffs:
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BryanGF0822).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](hhttps://github.com/BryanGF0822?tab=repositories).
 - 📫 &nbsp; How to reach me: bryangf0822@gmail.com.
 
 
 <p align = "center">
-  <img align="top" src="https://github.com/BryanGF0822?tab=repositories" alt="imkashyap" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=BryanGF0822&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF0822&theme=dark&hide_border=true&layout=compact">
 </p>
 
