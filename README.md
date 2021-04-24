@@ -6,6 +6,12 @@
 
 I am a sixth semester student of systems engineering 🎓 at ICESI University 🏛. I am a passionate learner who is always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. Currently I am into Java Development 👨🏻💻 and working on my Data Structures and Algorithms 🤓.
 
+### Personal Stuffs:
+
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BryanGF0822).
+- 📫 &nbsp; How to reach me: bryangf0822@gmail.com.
+
+
 <p align = "center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=BryanGF0822&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF0822&theme=dark&hide_border=true&layout=compact">
