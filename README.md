@@ -34,7 +34,7 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/m7eqc4rp5ugr891ize609odzy)
   
 ### 🤝🏻 &nbsp;Connect with Me
 
