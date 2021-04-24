@@ -29,14 +29,18 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
   
+  
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6XWE5WcifMyp5mrrUoTurL)
+  
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.instagram.com/bryan_gf22/"><img src="https://img.shields.io/badge/-@bryan_gf22__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/brayanalexander.gf/"><img src="https://img.shields.io/badge/-@brayanalexander.gf-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-  
-
 </p>
 
 <!--
