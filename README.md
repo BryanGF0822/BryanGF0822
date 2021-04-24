@@ -26,8 +26,8 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@bryan_gf22__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@brayanalexander.gf-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/bryan_gf22/"><img src="https://img.shields.io/badge/-@bryan_gf22__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/brayanalexander.gf/"><img src="https://img.shields.io/badge/-@brayanalexander.gf-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
   
 
