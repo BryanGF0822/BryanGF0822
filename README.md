@@ -8,7 +8,7 @@ I am a sixth semester student of systems engineering 🎓 at ICESI University �
 
 ### Personal Stuffs:
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](hhttps://github.com/BryanGF0822?tab=repositories).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BryanGF0822?tab=repositories).
 - 📫 &nbsp; How to reach me: bryangf0822@gmail.com.
 
 
