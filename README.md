@@ -4,7 +4,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-I am a sixth semester student of systems engineering 🎓 at ICESI University 🏛. I am a passionate learner who is always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. Currently I am into Java Development 👨🏻💻 and working on my Data Structures and Algorithms 🤓.
+I am a seventh semester student of systems engineering 🎓 at ICESI University 🏛. I am a passionate learner who is always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. Currently I am into Java Development 👨🏻💻 and working on my Data Structures and Algorithms 🤓.
 
 ### Personal Stuffs:
 
