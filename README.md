@@ -33,14 +33,15 @@ In this last semester I have faced new challenges that comes with new languages 
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
   
   
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/m7eqc4rp5ugr891ize609odzy)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&redirect=true)
-  
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
