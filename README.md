@@ -39,7 +39,7 @@ In this last semester I have faced new challenges that comes with new languages 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=m7eqc4rp5ugr891ize609odzy&redirect=true)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
