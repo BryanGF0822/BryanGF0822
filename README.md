@@ -40,5 +40,5 @@ Currently, I am working on improving my development skills, learning **unit test
 
 <p align="center">
 <a href="https://www.instagram.com/bryan_gf22/"><img src="https://img.shields.io/badge/-@bryan_gf22__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="www.linkedin.com/in/bryan-guapacha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bryan-guapacha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
