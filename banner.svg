@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Bryan Guapacha — iOS Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FA7343"/>
+      <stop offset="1" stop-color="#E8432E"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 56px -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial, sans-serif; fill: #fff; }
+      .role { font: 500 24px -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Helvetica, Arial, sans-serif; fill: #fff; opacity: .92; }
+      .tags { font: 500 17px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #fff; opacity: .85; }
+      .fade { animation: fade 1.2s ease-out both; }
+      .fade2 { animation: fade 1.2s .35s ease-out both; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M0 190 C 220 150, 380 240, 600 205 S 980 150, 1200 200 L1200 260 L0 260 Z" fill="url(#wave)"/>
+  <path d="M0 220 C 260 190, 420 260, 700 230 S 1040 200, 1200 230 L1200 260 L0 260 Z" fill="#ffffff" fill-opacity="0.10"/>
+
+  <!-- decorative rings -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2">
+    <circle cx="1080" cy="70" r="42"/><circle cx="1080" cy="70" r="72"/>
+    <circle cx="110" cy="60" r="28"/>
+  </g>
+
+  <g class="fade">
+    <text x="600" y="112" text-anchor="middle" class="name">Bryan Guapacha</text>
+  </g>
+  <g class="fade2">
+    <text x="600" y="152" text-anchor="middle" class="role">iOS Developer @ Globant</text>
+    <text x="600" y="186" text-anchor="middle" class="tags">Swift · SwiftUI · UIKit · MVVM + Clean Architecture</text>
+  </g>
+</svg>
